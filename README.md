@@ -1,6 +1,6 @@
 # Moralization of Self Improvement
 
-## Environment
+## Ecosystem
 
 Some of these notebooks are written to be implemented on a Spark ecosystem, while other ones can be run on a standard Python Jupyter notebook. 
 
