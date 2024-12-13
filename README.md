@@ -14,12 +14,12 @@ With the CSV files, the first notebook in this repository can be run to get clea
 
 ## Notebooks
 
-- [00-cleaning_notebook.ipynb](00-cleaning_notebook.ipynb)
-- [01-morality-assessment.ipynb](01-morality-assessment.ipynb)
-- [02-topic-modeling.ipynb](02-topic-modeling.ipynb)
-- [03-topics-human-validation.ipynb](03-topics-human-validation.ipynb)
-- [04-create-attributes-and-ARM.ipynb](04-create-attributes-and-ARM.ipynb)
-- [05-topics-by-morality.ipynb](05-topics-by-morality)
-- [06-expand-liwc-method.ipynb](06-expand-liwc-method)
-- [07-topic-and-morality-words-network.ipynb](07-topic-and-morality-words-network.ipynb)
-- [08-community_detection.ipynb](08-community_detection.ipynb)
+- [00-cleaning_notebook](00-cleaning_notebook.ipynb)
+- [01-morality-assessment](01-morality-assessment.ipynb)
+- [02-topic-modeling](02-topic-modeling.ipynb)
+- [03-topics-human-validation](03-topics-human-validation.ipynb)
+- [04-create-attributes-and-ARM](04-create-attributes-and-ARM.ipynb)
+- [05-topics-by-morality](05-topics-by-morality.ipynb)
+- [06-expand-liwc-method](06-expand-liwc-method.ipynb)
+- [07-topic-and-morality-words-network](07-topic-and-morality-words-network.ipynb)
+- [08-community_detection](08-community_detection.ipynb)
