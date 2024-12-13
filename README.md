@@ -1,5 +1,9 @@
 # Moralization of Self Improvement
 
+## Environment
+
+Some of these notebooks are written to be implemented on a Spark ecosystem, while other ones can be run on a standard Python Jupyter notebook. 
+
 ## Get the data
 
 The reddit data is available on [Academic Torrents](https://academictorrents.com/). Under "View popular", the user can look at "Subreddit comments/submissions 2005-06 to 2023-12". The website also offers a [tutorial](https://academictorrents.com/docs/downloading.html) on how to download the data. 
